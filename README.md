@@ -2,6 +2,7 @@
 
 [IJCAI](https://ijcai24.org)  Paper deadline: January.  Conference: August.  
 [ICML](https://icml.cc)  Paper deadline: February.  Conference: July.  
+[RSS](https://roboticsconference.org)  Paper deadline: February.  Conference: July.  
 [ECCV](https://eccv2024.ecva.net)  Paper deadline: March.  Conference: September.  
 [AAAI](https://aaai.org/aaai-conference)  Paper deadline: August.  Conference: February.  
 [ICAPS](https://icaps24.icaps-conference.org)  Paper deadline: December.  Conference: June.  
