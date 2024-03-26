@@ -9,6 +9,8 @@
 |[RSS](https://roboticsconference.org)|February|July|
 |[ECCV](https://eccv2024.ecva.net)|March|September|
 |[IROS](https://ieee-iros.org)|March|October|
+|[NeurIPS](https://neurips.cc)|May|December|
+|[CoRL](https://www.corl2023.org)|June|November|
 |[AAAI](https://aaai.org/aaai-conference)|August|February|
 |[CVPR](https://cvpr.thecvf.com)|November|June|
 |[ICAPS](https://icaps24.icaps-conference.org)|December|June|
