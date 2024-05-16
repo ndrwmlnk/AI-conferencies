@@ -10,6 +10,7 @@
 |[ECCV](https://eccv2024.ecva.net)|March|September|
 |[IROS](https://ieee-iros.org)|March|October|
 |[NeurIPS](https://neurips.cc)|May|December|
+|[German Conf. on AI](https://www.informatik.uni-wuerzburg.de/ki24)|May|September|
 |[CoRL](https://www.corl2023.org)|June|November|
 |[AAAI](https://aaai.org/aaai-conference)|August|February|
 |[CVPR](https://cvpr.thecvf.com)|November|June|
