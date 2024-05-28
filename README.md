@@ -13,6 +13,7 @@
 |[German Conf. on AI](https://www.informatik.uni-wuerzburg.de/ki24)|May|September|
 |[CoRL](https://www.corl2023.org)|June|November|
 |[AAAI](https://aaai.org/aaai-conference)|August|February|
+|[ICRA](https://2024.ieee-icra.org)|September|May|
 |[CVPR](https://cvpr.thecvf.com)|November|June|
 |[ICAPS](https://icaps24.icaps-conference.org)|December|June|
 |[ICPRAI](https://brain.korea.ac.kr/icprai2024/importantdate.php)|December|June|
