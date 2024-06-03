@@ -18,4 +18,5 @@
 |[ICAPS](https://icaps24.icaps-conference.org)|December|June|
 |[ICPRAI](https://brain.korea.ac.kr/icprai2024/importantdate.php)|December|June|
 
-[AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
+[AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)  
+[Association for Computational Linguistics Rolling Review](https://aclrollingreview.org)
