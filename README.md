@@ -7,6 +7,7 @@
 |[IJCAI](https://ijcai24.org)|January|August|
 |[ICML](https://icml.cc)|February|July|
 |[RSS](https://roboticsconference.org)|February|July|
+|[CoLLAs](https://lifelong-ml.cc)|February|July|
 |[ECCV](https://eccv2024.ecva.net)|March|September|
 |[IROS](https://ieee-iros.org)|March|October|
 |[NeurIPS](https://neurips.cc)|May|December|
