@@ -16,7 +16,7 @@
 |[Humanoids](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/humanoids)|July|November|
 |[AAAI](https://aaai.org/conference/aaai/aaai-25)|August|February|
 |[IEEE ICASSP](https://2025.ieeeicassp.org/important-dates)|September|April|
-|[ICRA](https://2024.ieee-icra.org)|September|May|
+|[ICRA](https://2025.ieee-icra.org)|September|May|
 |[CVPR](https://cvpr.thecvf.com)|November|June|
 |[ICAPS](https://icaps24.icaps-conference.org)|December|June|
 |[ICPRAI](https://brain.korea.ac.kr/icprai2024/importantdate.php)|December|June|
