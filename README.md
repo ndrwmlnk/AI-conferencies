@@ -17,6 +17,7 @@
 |[AAAI](https://aaai.org/conference/aaai/aaai-25)|August|February|
 |[IEEE ICASSP](https://2025.ieeeicassp.org/important-dates)|September|April|
 |[ICRA](https://2025.ieee-icra.org)|September|May|
+|[AAMAS](https://aamas2025.org)|October|May|
 |[CVPR](https://cvpr.thecvf.com)|November|June|
 |[ICAPS](https://icaps24.icaps-conference.org)|December|June|
 |[ICPRAI](https://brain.korea.ac.kr/icprai2024/importantdate.php)|December|June|
