@@ -19,7 +19,7 @@
 |[ICRA](https://2025.ieee-icra.org)|September|May|
 |[AAMAS](https://aamas2025.org)|October|May|
 |[CVPR](https://cvpr.thecvf.com)|November|June|
-|[ICAPS](https://icaps24.icaps-conference.org)|December|June|
+|[ICAPS](https://icaps25.icaps-conference.org)|November|November|
 |[ICPRAI](https://brain.korea.ac.kr/icprai2024/importantdate.php)|December|June|
 
 [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)  
