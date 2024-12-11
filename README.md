@@ -15,6 +15,7 @@
 |[CoRL](https://www.corl2023.org)|June|November|
 |[Humanoids](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/humanoids)|July|November|
 |[AAAI](https://aaai.org/conference/aaai/aaai-25)|August|February|
+|[3DV](https://3dvconf.github.io)|August|March|
 |[IEEE ICASSP](https://2025.ieeeicassp.org/important-dates)|September|April|
 |[ICRA](https://2025.ieee-icra.org)|September|May|
 |[AAMAS](https://aamas2025.org)|October|May|
